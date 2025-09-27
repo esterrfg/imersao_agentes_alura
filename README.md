@@ -12,5 +12,5 @@ A ideia é o agente ser capaz de:
 
 <img src="https://github.com/esterrfg/imersao_agentes_alura/blob/main/fluxo_agente.png" width="250">
 
-
+Ps: Sim, no início quando eu estava testando o LLM eu perguntei a ele sobre o Pokémon - não é um erro.
 :sparkles:
